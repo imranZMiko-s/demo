@@ -2,4 +2,4 @@ print("Hello world!")
 
 print("Testing")
 
-print("Hello hello")
+print("Testing merge on GitHub")
